@@ -11,4 +11,4 @@ A simple, lightweight, schema-free local JSON database for Node.js. Ideal for sm
 ## Installation
 
 ```bash
-npm install local-json-db
+npm install bhavesh-json-db

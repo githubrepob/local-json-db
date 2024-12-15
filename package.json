@@ -1,0 +1,23 @@
+{
+  "name": "local-json-db",
+  "version": "1.0.0",
+  "description": "A simple, lightweight JSON-based local database for Node.js. Ideal for small projects and prototyping.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/githubrepob/local-json-db.git"
+  },
+  "keywords": [
+    "npm",
+    "database"
+  ],
+  "author": "Bhavesh Chauhan",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/githubrepob/local-json-db/issues"
+  },
+  "homepage": "https://github.com/githubrepob/local-json-db#readme"
+}
